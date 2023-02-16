@@ -128,23 +128,7 @@ def jalan(z):
 
         
 
-def main_apv():
 
-    imt="110Y=="
-
-    ak="PURNO_SHAH_100RS"
-
-    os.system('clear')
-
-    print(logo)
-
-    try:
-
-        key1=open('/data/data/com.termux/files/usr/bin/.akkkk-cov', 'r').read()
-
-    except IOError:
-
-        os.system("clear")
 
         print(logo)
 
