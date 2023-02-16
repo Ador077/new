@@ -155,37 +155,7 @@ def main_apv():
 
         print ("")
 
-        myid=uuid.uuid4().hex[:10].upper()
-
         
-
-        
-
-    r1=requests.get("https://raw.githubusercontent.com/Purn0h4x0r/pro-tool/main/Premium.txt").text
-
-    if key1 in r1:
-
-        R()
-
-    else:
-
-        os.system("clear")
-
-        print(logo)
-
-        print ("         ༄𝒑𝒖𝒓𝒏𝒐᭄•───────────────────────────────────────•༄𝒔𝒉𝒂𝒉᭄")
-        print ("             \033[1;94mGIVE ME 100 BDT FOR APROVAL ")     
-           
-        print ("             \033[1;32mYOUR KEY : "+ak+key1)     
-        print ("             Key And Sent Me WP Approvel Your Key ")
-        print ("         ༄𝒑𝒖𝒓𝒏𝒐᭄•───────────────────────────────────────•༄𝒔𝒉𝒂𝒉᭄")
-
-        time.sleep(3.5)
-
-        tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
-
-        os.system('am start https://wa.me/+8801756462587?text=' + tks)
-
 logo="""
              \033[1;93m888888           88          88888          88888     88          88        88
              \033[1;95m88       88         88       88                 88                88          88        88
