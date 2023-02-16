@@ -581,25 +581,6 @@ class __xxx__:
 
             
 
-def dupcutter():
-
-	os.system("xdg-open https://wa.me/+8801756462587")
-
-	time.sleep(3)
-
-	R()
-
-def yt():
-
-	logo()
-
-	os.system("xdg-open https://www.facebook.com/mr.darkness.p")
-
-	time.sleep(3)
-
-	R()
-
-    
 
 class load:
 
